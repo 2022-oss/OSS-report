@@ -40,6 +40,6 @@ GNU 프로젝트는 커널이 개발되지 않았으며, 리눅스는 자유롭�
 오픈소스 소프트웨어 시장은 빠르게 성장하며 확대됨 <br>
 정보통신산업진흥원의 2020년 OSS 시장 동향 조사보고서에 따르면  <br>
 *2020년* OSS 시장 규모는 2019년 대비 18.8% 성장했고, 시장 가치는 2019년 대비 10.5% 성장함 <br>
-![DB엔진](https://db-engines.com/en/ranking_osvsc)이 소개한 자료를 보면, 상업 라이선스와의 격차는 줄어들고  <br>
+[DB엔진](https://db-engines.com/en/ranking_osvsc)이 소개한 자료를 보면, 상업 라이선스와의 격차는 줄어들고  <br>
 2021년을 기점으로 상업 라이선스보다 오픈소스의 영향력이 커짐
 ![DB엔진](https://user-images.githubusercontent.com/114238252/193757250-11db8da8-39c3-4c98-a3f7-b523fb9e9536.jpeg)
