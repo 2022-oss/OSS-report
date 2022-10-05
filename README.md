@@ -5,6 +5,6 @@
 
 ### [2. OSS 역사](https://github.com/2022-oss/OSS-report/blob/main/OSS%20%EC%97%AD%EC%82%AC.md)
 
-### 3. OSS 저작권
+### [3. OSS 저작권](https://github.com/2022-oss/OSS-report/blob/main/OSS%20%EC%A0%80%EC%9E%91%EA%B6%8C.md)
 
 ### 4. 대표 OSS
