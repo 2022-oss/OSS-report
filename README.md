@@ -3,7 +3,7 @@
 
 ### [1. OSS 개요](https://github.com/2022-oss/OSS-report/blob/42e9a72593d8461f05d85c501065ebaf630a24fd/OSS%20%EA%B0%9C%EC%9A%94.md)
 
-### 2. OSS 역사
+### [2. OSS 역사](https://github.com/2022-oss/OSS-report/blob/main/OSS%20%EC%97%AD%EC%82%AC.md)
 
 ### 3. OSS 저작권
 
